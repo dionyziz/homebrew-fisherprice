@@ -1,7 +1,7 @@
 class BingWallpaperOsx < Formula
   homepage "https://github.com/gtklocker/bing-wallpaper-osx"
-  url "https://github.com/gtklocker/bing-wallpaper-osx/archive/0.0.2.tar.gz"
-  sha256 "d30f5afc99ca299ad366846189093f655bf8f50484797fba2f63c717d4a0f94b"
+  url "https://github.com/gtklocker/bing-wallpaper-osx/archive/0.0.3.tar.gz"
+  sha256 "ec03067261e96e4b964c47c508ed770c2bed9a0da0ccd935b9b7ebdb72fcdb2d"
 
   def install
     bin.install "bing-wallpaper-osx"
